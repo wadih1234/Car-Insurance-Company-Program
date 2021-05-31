@@ -1,0 +1,8 @@
+             Receiption Details:
+          ====================
+          Receiption Id:2
+           Customer Id  :1
+           Vehicule Id  :1
+           Payment  Date :21/10/2000 14:50
+           ValueToPay   :1460.0
+           Status       :paid
