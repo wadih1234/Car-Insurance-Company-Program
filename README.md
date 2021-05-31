@@ -1,2 +1,2 @@
 # Car-Insurance-Company-Program
-Car insurancee company program using java and database (JDBC)
+Car insurance company program using java and MySQL database (JDBC)
